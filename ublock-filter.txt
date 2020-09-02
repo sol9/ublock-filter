@@ -1,0 +1,42 @@
+! 2020. 4. 23. https://www.naver.com
+||castbox.shopping.naver.com/sb/main.nhn$subdocument
+
+! 2020. 4. 23. https://algumon.com
+algumon.com##.post-other
+
+! 2020. 5. 18. https://sports.news.naver.com
+sports.news.naver.com##.home_da2
+
+! 2020. 5. 26. https://poro.gg
+poro.gg##.summoner.ap_top
+poro.gg##.summoner.ap_middle
+
+! 2020. 5. 26. https://www.op.gg
+www.op.gg##.image-banner--show.image-banner
+
+! 2020. 5. 26. https://poro.gg
+poro.gg##.champion.ap_top
+
+! 2020. 5. 27. http://fow.kr
+fow.kr##.right_width_ad_auto
+fow.kr##.neo_top_center
+fow.kr###mid_pr_google
+fow.kr###bottom_pr_google
+
+! 2020. 6. 25. https://torrentdia.com
+torrentdia.com##.view_banner.top_banner
+torrentdia.com##.clearfix.side_banner
+torrentdia.com##.clearfix.left_banner
+torrentdia.com##div.text-center.clearfix:nth-of-type(1)
+
+! 2020. 7. 8. https://poro.gg
+poro.gg##.mb-3.mt-3.ap_middle_billboard
+
+! 2020-08-23 https://www.naver.com
+www.naver.com###NM_MID_BANNER
+
+! 2020-08-27 https://www.naver.com
+www.naver.com###newsstand
+
+! 2020-09-01 https://www.naver.com
+www.naver.com###shopcast
