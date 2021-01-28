@@ -42,3 +42,10 @@ www.naver.com###newsstand
 
 ! 2020-09-01 https://www.naver.com
 www.naver.com###shopcast
+
+! 2021-01-22 https://lolchess.gg
+lolchess.gg##.traits.ap_top
+lolchess.gg##.ap_middle.ap_top
+lolchess.gg##.set4_5.set-introduce > .ap_top
+lolchess.gg##.ap_bottom
+lolchess.gg##.ap_top
