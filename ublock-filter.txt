@@ -49,3 +49,11 @@ lolchess.gg##.ap_middle.ap_top
 lolchess.gg##.set4_5.set-introduce > .ap_top
 lolchess.gg##.ap_bottom
 lolchess.gg##.ap_top
+
+! 2021-07-09 https://www.torrentdia2.com
+www.torrentdia2.com##.clearfix.left_banner
+www.torrentdia2.com##.view_bimg.top_bimg
+www.torrentdia2.com##.clearfix.side_bimg
+www.torrentdia2.com##div.text-center.clearfix:nth-of-type(1)
+www.torrentdia2.com##.list-btn-box
+www.torrentdia2.com##.m-col-mb-9.col-md-pull-0.col-md-9 > .h10
