@@ -3,9 +3,6 @@
 ! 2020. 4. 23. https://www.naver.com
 ||castbox.shopping.naver.com/sb/main.nhn$subdocument
 
-! 2020. 4. 23. https://algumon.com
-algumon.com##.post-other
-
 ! 2020. 5. 18. https://sports.news.naver.com
 sports.news.naver.com##.home_da2
 
@@ -25,12 +22,6 @@ fow.kr##.neo_top_center
 fow.kr###mid_pr_google
 fow.kr###bottom_pr_google
 
-! 2020. 6. 25. https://torrentdia.com
-torrentdia.com##.view_banner.top_banner
-torrentdia.com##.clearfix.side_banner
-torrentdia.com##.clearfix.left_banner
-torrentdia.com##div.text-center.clearfix:nth-of-type(1)
-
 ! 2020. 7. 8. https://poro.gg
 poro.gg##.mb-3.mt-3.ap_middle_billboard
 
@@ -42,18 +33,3 @@ www.naver.com###newsstand
 
 ! 2020-09-01 https://www.naver.com
 www.naver.com###shopcast
-
-! 2021-01-22 https://lolchess.gg
-lolchess.gg##.traits.ap_top
-lolchess.gg##.ap_middle.ap_top
-lolchess.gg##.set4_5.set-introduce > .ap_top
-lolchess.gg##.ap_bottom
-lolchess.gg##.ap_top
-
-! 2021-07-09 https://www.torrentdia2.com
-www.torrentdia2.com##.clearfix.left_banner
-www.torrentdia2.com##.view_bimg.top_bimg
-www.torrentdia2.com##.clearfix.side_bimg
-www.torrentdia2.com##div.text-center.clearfix:nth-of-type(1)
-www.torrentdia2.com##.list-btn-box
-www.torrentdia2.com##.m-col-mb-9.col-md-pull-0.col-md-9 > .h10
